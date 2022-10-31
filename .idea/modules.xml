@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Augmented_Faces_with_AR_Core.iml" filepath="$PROJECT_DIR$/.idea/modules/Augmented_Faces_with_AR_Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Augmented_Faces_with_AR_Core.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
